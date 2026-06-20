@@ -1,0 +1,2 @@
+timestamp,delivery_partner,package_type,vehicle_type,delivery_mode,region,weather_condition,distance_km,package_weight_kg,delivery_cost,predicted_probability,prediction
+2026-06-20T21:10:31.947145,Partner A,Type A,Car,Express,Region A,Clear,15.0,5.0,25000.0,0.9967442154884338,Delayed
